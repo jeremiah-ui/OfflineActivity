@@ -1,0 +1,5 @@
+Age: 29
+Work: Technical Support Representatives
+School: Mindtech Trainig Center
+Favorite Color: Blue, Light Blue
+Status: Single

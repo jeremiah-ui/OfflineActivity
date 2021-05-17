@@ -1,5 +1,0 @@
-Age:
-Work:
-School:
-Favorite Color:
-Status:
